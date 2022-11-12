@@ -1,3 +1,8 @@
+/* 
+Group B :1 - Implement Breadth First Search algorithm. 
+Use an undirected graph and develop a recursive algorithm for searching all the vertices of a graph or tree data structure.
+*/
+
 #include<iostream>
 #include<queue>
 using namespace std;
@@ -46,3 +51,5 @@ int main()
         }
     }
 }
+
+//Code by Tejas Shirsath
