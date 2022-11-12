@@ -1,3 +1,7 @@
+/*
+Group B :5 - Implement Greedy search algorithm for Selection Sort.
+*/
+
 #include <iostream>
 using namespace std;
 
@@ -48,3 +52,5 @@ int main()
 
     return 0;
 }
+
+//Created by Tejas Shirsath
